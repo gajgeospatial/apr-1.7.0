@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Development\op3d_active\apr-1.7.0\msvc\CMakeFiles\7b02cf0cc4c851870e89e0d66af76ac1\apr_escape_test_char.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Development\op3d_active\apr-1.7.0\msvc\CMakeFiles\088ca24db5a8e4c17120faeed2ccc834\test_char_header.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Development\op3d_active\apr-1.7.0\msvc\CMakeFiles\test_char_header" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{F21D7EC5-B1DD-3534-A825-0AE3374F87C8}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

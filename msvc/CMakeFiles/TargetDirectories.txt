@@ -1,0 +1,9 @@
+C:/Development/op3d_active/apr-1.7.0/msvc/CMakeFiles/libapr-1.dir
+C:/Development/op3d_active/apr-1.7.0/msvc/CMakeFiles/gen_test_char.dir
+C:/Development/op3d_active/apr-1.7.0/msvc/CMakeFiles/libaprapp-1.dir
+C:/Development/op3d_active/apr-1.7.0/msvc/CMakeFiles/test_char_header.dir
+C:/Development/op3d_active/apr-1.7.0/msvc/CMakeFiles/apr-1.dir
+C:/Development/op3d_active/apr-1.7.0/msvc/CMakeFiles/aprapp-1.dir
+C:/Development/op3d_active/apr-1.7.0/msvc/CMakeFiles/INSTALL.dir
+C:/Development/op3d_active/apr-1.7.0/msvc/CMakeFiles/ALL_BUILD.dir
+C:/Development/op3d_active/apr-1.7.0/msvc/CMakeFiles/ZERO_CHECK.dir
